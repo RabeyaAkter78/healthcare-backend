@@ -78,3 +78,7 @@ createAdmin,
 ``const hashedPassword:string= await bcrypt.hash(data.password, 10); // PARAMETTER HISEBE FIRST E PASSWORD TA NIBE, THEN SECOND E SALT ROUND DITE HOBE. SALT ROUND BESI DILE LOADING TIME BESI LAGBE.
 console.log(hashedPassword)
 ``
+
+---------------SEARCH----------------
+
+---------------Pagination---------
